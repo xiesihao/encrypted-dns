@@ -24,7 +24,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Google DNS over TLS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.f0ffd552-7183-4f2e-86e5-ee1ecad2a53a</string>
+			<string>com.apple.dnsSettings.managed.69486b96-5792-478c-be32-8802a4faea4b</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
